@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Gadyel Martinez
 
-## Backend Developer specialized in AWS Cloud Architectures ☁️
+## Backend Engineer specialized in AWS Cloud Architectures ☁️
 
-Backend-focused developer with experience designing and maintaining scalable serverless architectures on AWS.
+Backend-focused engineer with experience designing and maintaining scalable serverless architectures on AWS.
 
 Currently working with cloud-native technologies to build secure, multi-tenant, and maintainable backend systems using Infrastructure as Code and modern development practices.
 
@@ -10,7 +10,7 @@ Currently working with cloud-native technologies to build secure, multi-tenant, 
 
 ## 🚀 About Me
 
-- 🔭 Backend Developer working with AWS serverless architectures
+- 🔭 Backend Engineer working with AWS serverless architectures
 - ☁️ Experienced with AWS Lambda, API Gateway, DynamoDB, Cognito, Step Functions and CloudFront
 - 🏗️ Passionate about scalable systems, clean architecture and cloud computing
 - 🔐 Focused on secure RESTful APIs and multi-tenant environments
