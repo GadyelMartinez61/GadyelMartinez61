@@ -1,82 +1,72 @@
-# Hi there 👋 I'm Gadyel Martinez
+# ¡Hola! Soy Gadyel Martinez 👋
+### Backend Engineer | AWS Cloud Architect & Serverless Specialist
 
-## Backend Engineer specialized in AWS Cloud Architectures ☁️
-
-Backend-focused engineer with experience designing and maintaining scalable serverless architectures on AWS.
-
-Currently working with cloud-native technologies to build secure, multi-tenant, and maintainable backend systems using Infrastructure as Code and modern development practices.
-
----
-
-## 🚀 About Me
-
-- 🔭 Backend Engineer working with AWS serverless architectures
-- ☁️ Experienced with AWS Lambda, API Gateway, DynamoDB, Cognito, Step Functions and CloudFront
-- 🏗️ Passionate about scalable systems, clean architecture and cloud computing
-- 🔐 Focused on secure RESTful APIs and multi-tenant environments
-- ⚡ Experienced implementing CI/CD pipelines using CodePipeline and CodeBuild
-- 📚 Continuously learning about system design, distributed systems and cloud engineering
+<p align="left">
+  <a href="https://www.linkedin.com/in/gadyel-martinez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/GadyelMartinez61"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre Mí
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Soy un ingeniero enfocado en el **desarrollo Backend** con experiencia en el diseño, despliegue y mantenimiento de **arquitecturas serverless y escalables en AWS**. Me apasiona construir sistemas nativos en la nube que sean seguros, multi-tenant y fáciles de mantener utilizando Infraestructura como Código (IaC).
 
----
-
-### AWS Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+*   🔭 **Actualmente:** Diseñando sistemas backend distribuidos y flujos serverless de alta disponibilidad.
+*   🏗️ **Arquitectura:** Enfocado en Clean Architecture, patrones distribuidos y diseño de sistemas masivos.
+*   🔐 **Seguridad:** Especializado en APIs RESTful seguras, control de accesos e integración de entornos aislados.
+*   ⚡ **DevOps:** Automatizando flujos de entrega con pipelines CI/CD integrados nativamente en la nube.
 
 ---
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack & Ecosistema Cloud
+
+### ☁️ AWS Cloud & Serverless
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="AWS Cognito" />
+  <img src="https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Step Functions" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+</p>
+
+### 💻 Lenguajes & Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### ⚙️ DevOps & Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK" />
+  <img src="https://img.shields.io/badge/CodePipeline-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CodePipeline" />
+  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CodeBuild" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/CodePipeline-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🏅 Certificaciones Profesionales
+
+<table border="0">
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Developer" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" /></td>
+    <td><img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🏅 Certifications
+## 📈 Áreas de Foco Actual
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS Certified Developer Associate](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 📈 Current Focus
-
-- Distributed Systems
-- Backend Architecture
-- AWS Serverless
-- CI/CD Automation
-- System Design
-- Cloud Security
-
----
-
-## 🌎 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/gadyel-martinez/
-- 💻 GitHub: https://github.com/GadyelMartinez61
+```text
+⚡ [Distributed Systems] ─── ⚡ [Backend Architecture] ─── ⚡ [Serverless Solutions]
+⚡ [CI/CD Automation]   ─── ⚡ [Cloud Security]       ─── ⚡ [System Design]
