@@ -41,88 +41,31 @@ Currently expanding my expertise in:
 
 # ☁️ AWS Expertise
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="55"><br>
-Lambda
-</td>
+<p align="center">
 
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Networking%20&%20Content%20Delivery/API-Gateway.svg" width="55"><br>
-API Gateway
-</td>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-8C4FFF?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="55"><br>
-Cognito
-</td>
+<br><br>
 
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="55"><br>
-DynamoDB
-</td>
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white"/>
+<img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonsns&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Step_Functions-1F73B7?style=for-the-badge&logo=amazonstepfunctions&logoColor=white"/>
 
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="55"><br>
-S3
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Networking%20&%20Content%20Delivery/CloudFront.svg" width="55"><br>
-CloudFront
-</td>
+<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazoncodebuild&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodePipeline-527FFF?style=for-the-badge&logo=amazoncodepipeline&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/EventBridge.svg" width="55"><br>
-EventBridge
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Notification-Service.svg" width="55"><br>
-SNS
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Queue-Service.svg" width="55"><br>
-SQS
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Step-Functions.svg" width="55"><br>
-Step Functions
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeBuild.svg" width="55"><br>
-CodeBuild
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="55"><br>
-CodePipeline
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Identity-and-Access-Management.svg" width="55"><br>
-IAM
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="55"><br>
-CloudWatch
-</td>
-
-<td align="center">
-<img src="https://icon.icepanel.io/AWS/svg/General/AWS.svg" width="55"><br>
-AWS CDK
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
