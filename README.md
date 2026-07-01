@@ -43,27 +43,24 @@ Currently expanding my expertise in:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cognito-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/EventBridge-FF9900?style=flat-square"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square"/>
 
 </p>
 
