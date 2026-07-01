@@ -41,29 +41,88 @@ Currently expanding my expertise in:
 
 # ☁️ AWS Expertise
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="55"><br>
+Lambda
+</td>
 
-<img src="https://skillicons.dev/icons?i=aws,python,java,javascript,git,github,docker,mongodb,mysql,postgres&perline=10"/>
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Networking%20&%20Content%20Delivery/API-Gateway.svg" width="55"><br>
+API Gateway
+</td>
 
-</p>
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="55"><br>
+Cognito
+</td>
 
-### AWS Services
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="55"><br>
+DynamoDB
+</td>
 
-- AWS Lambda
-- API Gateway
-- Cognito
-- DynamoDB
-- S3
-- CloudFront
-- EventBridge
-- SNS
-- SQS
-- Step Functions
-- CodeBuild
-- CodePipeline
-- IAM
-- CloudWatch
-- AWS CDK (Python)
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="55"><br>
+S3
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Networking%20&%20Content%20Delivery/CloudFront.svg" width="55"><br>
+CloudFront
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/EventBridge.svg" width="55"><br>
+EventBridge
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Notification-Service.svg" width="55"><br>
+SNS
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Simple-Queue-Service.svg" width="55"><br>
+SQS
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Application-Integration/Step-Functions.svg" width="55"><br>
+Step Functions
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeBuild.svg" width="55"><br>
+CodeBuild
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="55"><br>
+CodePipeline
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Identity-and-Access-Management.svg" width="55"><br>
+IAM
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="55"><br>
+CloudWatch
+</td>
+
+<td align="center">
+<img src="https://icon.icepanel.io/AWS/svg/General/AWS.svg" width="55"><br>
+AWS CDK
+</td>
+</tr>
+</table>
 
 ---
 
