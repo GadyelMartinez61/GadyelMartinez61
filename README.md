@@ -69,13 +69,11 @@ Currently expanding my expertise in:
 
 # 🛠 Tech Stack
 
-| Backend | Cloud | Databases | DevOps |
-|---------|---------|---------|---------|
-| Python | AWS | PostgreSQL | Git |
-| Java | Lambda | MySQL | GitHub |
-| JavaScript | API Gateway | MongoDB | CodePipeline |
-| REST APIs | Cognito | DynamoDB | CodeBuild |
-| FastAPI | CloudFront | S3 | AWS CDK |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,aws,docker,postgres,mysql,mongodb,git,github&perline=10" />
+
+</p>
 
 ---
 
