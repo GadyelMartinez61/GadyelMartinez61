@@ -144,20 +144,13 @@ Currently expanding my expertise in:
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-☁️ AWS Cloud Architecture
-█████████████████████████░░░░░░░░ 85%
+☁️ Designing scalable serverless architectures
 
-⚡ Serverless Development
-███████████████████████████░░░░░░ 90%
+🤖 Learning Generative AI on AWS
 
-🐍 Python Backend
-█████████████████████████████░░░░ 95%
+🏗 Building production-ready backend systems
 
-🏗️ Distributed Systems
-████████████████████████░░░░░░░░░ 80%
-
-🤖 Generative AI
-██████████████████░░░░░░░░░░░░░░░ 65%
+📚 Preparing for AWS AI Certifications
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
