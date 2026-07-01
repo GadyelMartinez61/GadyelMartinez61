@@ -43,27 +43,27 @@ Currently expanding my expertise in:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Gateway-8C4FFF?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cognito-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white"/>
-<img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonsns&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Step_Functions-1F73B7?style=for-the-badge&logo=amazonstepfunctions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazoncodebuild&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodePipeline-527FFF?style=for-the-badge&logo=amazoncodepipeline&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge"/>
 
 </p>
 
